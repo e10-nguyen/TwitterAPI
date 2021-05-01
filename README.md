@@ -50,4 +50,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72825083/116769168-091b6400-a9ef-11eb-92a2-5658b5074fae.gif)
 
